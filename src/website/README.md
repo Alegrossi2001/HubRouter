@@ -1,0 +1,1 @@
+the entire goal of this is to be able to use this project across a variety of validation landing pages. 
