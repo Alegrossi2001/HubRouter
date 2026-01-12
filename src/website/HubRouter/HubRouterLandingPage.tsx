@@ -15,6 +15,7 @@ import StepFlow from "../../library/sections/StepFlow";
 import HubRouterForm from "./Form/HubRouter.Form";
 import HubRouterPresentationImg from "../../../public/HubRouterPresentation.webp";
 import AGCircleEmbellishment from "../../library/components/AGCircleEmbellishment";
+import DynamicFooter from "../../library/sections/Footer";
 
 const HubRouterLandingPage = () => {
 
@@ -304,6 +305,14 @@ const HubRouterLandingPage = () => {
                 </Grid>
                 <HubRouterForm />
             </AGBox>
+            <DynamicFooter
+                businessName="HubRouter"
+                description="The Workflow-Killer for HubSpot Sales Hub"
+                backgroundColor="#1A1A2E"
+                textColor="#FFFFFF"
+                accentColor="#27A36F"
+                addCopyright={true}
+            />
         </React.Fragment >
     )
 }
