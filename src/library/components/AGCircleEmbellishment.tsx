@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Box, useTheme } from "@mui/material";
 import { styled } from "@mui/material/styles";
+import type { Theme } from "@mui/material/styles";
 
 // ============================================================================
 // Types
@@ -93,7 +94,7 @@ const Circle = styled(Box, {
 
 const resolveThemeColor = (
     color: string,
-    theme: ReturnType<typeof useTheme>
+    theme: Theme
 ): string => {
     if (color.includes(".")) {
         const [palette, shade] = color.split(".");

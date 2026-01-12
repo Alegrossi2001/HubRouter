@@ -1,0 +1,977 @@
+row,field,value,message
+1,Nome,,Campo obbligatorio
+2,Nome,,Campo obbligatorio
+3,Email,acquisti@galbar.it; SEGRETERIA@GALBAR.IT,Email non valida
+3,Nome,,Campo obbligatorio
+4,Nome,,Campo obbligatorio
+5,Nome,,Campo obbligatorio
+6,Email,info@cmi-online.it; maria@cmi-online.it; tecnico@cmi-online.it,Email non valida
+6,Nome,,Campo obbligatorio
+7,Nome,,Campo obbligatorio
+8,Nome,,Campo obbligatorio
+9,Nome,,Campo obbligatorio
+10,Nome,,Campo obbligatorio
+11,Nome,,Campo obbligatorio
+12,Email,acquisti@gmb-lavorazione-lamiere.com ; fatturefornitori@gmb-lavorazione-lamiere.com,Email non valida
+12,Nome,,Campo obbligatorio
+13,Nome,,Campo obbligatorio
+14,Nome,,Campo obbligatorio
+15,Email,info@edil-mec-.it ; marcellocellina@edil-mec.it,Email non valida
+15,Nome,,Campo obbligatorio
+16,Nome,,Campo obbligatorio
+17,Nome,,Campo obbligatorio
+18,Nome,,Campo obbligatorio
+19,Nome,,Campo obbligatorio
+20,Nome,,Campo obbligatorio
+21,Nome,,Campo obbligatorio
+22,Nome,,Campo obbligatorio
+23,Nome,,Campo obbligatorio
+24,Nome,,Campo obbligatorio
+25,Email,"mail@fantinelli.it, purchase@fantinelli.it",Email non valida
+25,Nome,,Campo obbligatorio
+26,Email,"bebsrls@gmail.com , bbsrls@pec.it",Email non valida
+26,Nome,,Campo obbligatorio
+27,Email,INFO@CARPENTERIAMETALFER.COM ; amministrazione@carpenteriametalfer.com,Email non valida
+27,Nome,,Campo obbligatorio
+28,Nome,,Campo obbligatorio
+29,Nome,,Campo obbligatorio
+30,Nome,,Campo obbligatorio
+31,Nome,,Campo obbligatorio
+32,Email,verniciatura_vega@tiscali.it; info@vegasrl.it,Email non valida
+32,Nome,,Campo obbligatorio
+33,Nome,,Campo obbligatorio
+34,Email,ctc@bmec.eu ; SANPLAST@BMEC.EU,Email non valida
+34,Nome,,Campo obbligatorio
+35,Nome,,Campo obbligatorio
+36,Email,ennevi@ennevi.srl ; amministrazione@ennevi.srl,Email non valida
+36,Nome,,Campo obbligatorio
+37,Nome,,Campo obbligatorio
+38,Nome,,Campo obbligatorio
+39,Nome,,Campo obbligatorio
+40,Nome,,Campo obbligatorio
+41,Email,"manuela.rodoni@bredaprogetti.com, amministrazione@bredaprogetti.com ,amministrazione@pec.bredaprogetti.com",Email non valida
+41,Nome,,Campo obbligatorio
+42,Nome,,Campo obbligatorio
+43,Email,raffaella.romano@iametsrl.com; elena.calderara@iametsrl.com,Email non valida
+43,Nome,,Campo obbligatorio
+44,Nome,,Campo obbligatorio
+45,Email,"amministrazione@wettersrl.eu, info@wettersrl.eu",Email non valida
+45,Nome,,Campo obbligatorio
+46,Nome,,Campo obbligatorio
+47,Email,"office@schiavotech.it , acquisti@schiavotech.it",Email non valida
+47,Nome,,Campo obbligatorio
+48,Email,"twksrl@twkboiler.it, twkamministrazione@twkboiler.it",Email non valida
+48,Nome,,Campo obbligatorio
+49,Email,"info.fibas@virgilio.it, amministrazione.fibas@virgilio.it",Email non valida
+49,Nome,,Campo obbligatorio
+50,Nome,,Campo obbligatorio
+51,Nome,,Campo obbligatorio
+52,Nome,,Campo obbligatorio
+53,Nome,,Campo obbligatorio
+54,Nome,,Campo obbligatorio
+55,Email,"alessio.fabbro@gmail.com , alessio.gragnaniello@legalmail.it",Email non valida
+55,Nome,,Campo obbligatorio
+56,Email,marianisrlcassano@libero.it; mariani@marianisnc.net,Email non valida
+56,Nome,,Campo obbligatorio
+57,Nome,,Campo obbligatorio
+58,Nome,,Campo obbligatorio
+59,Email,amministrazione@cerettiengineering.it;andrea@cerettiengineering.it,Email non valida
+59,Nome,,Campo obbligatorio
+60,Nome,,Campo obbligatorio
+61,Nome,,Campo obbligatorio
+62,Nome,,Campo obbligatorio
+63,Email,info@costruzionicolombo.com; tecnico@costruzionicolombo.com;mail@pec.costruzionicolombo.com,Email non valida
+63,Nome,,Campo obbligatorio
+64,Nome,,Campo obbligatorio
+65,Nome,,Campo obbligatorio
+66,Nome,,Campo obbligatorio
+67,Nome,,Campo obbligatorio
+68,Nome,,Campo obbligatorio
+69,Nome,,Campo obbligatorio
+70,Nome,,Campo obbligatorio
+71,Nome,,Campo obbligatorio
+72,Nome,,Campo obbligatorio
+73,Nome,,Campo obbligatorio
+74,Nome,,Campo obbligatorio
+75,Nome,,Campo obbligatorio
+76,Email,"m.genoni@emco.it , d.maestroni@emco.it ; alessandro.guzzetti@emco-world.com",Email non valida
+76,Nome,,Campo obbligatorio
+77,Nome,,Campo obbligatorio
+78,Nome,,Campo obbligatorio
+79,Nome,,Campo obbligatorio
+80,Email,info@teknowaysrl.it;amministrazione@teknowaysrl.it,Email non valida
+80,Nome,,Campo obbligatorio
+81,Nome,,Campo obbligatorio
+82,Nome,,Campo obbligatorio
+83,Nome,,Campo obbligatorio
+84,Email,"info@eurexma.com , accounting@eurexma.com , alberto.pagano@eurexma.com",Email non valida
+84,Nome,,Campo obbligatorio
+85,Email,cardamonesrl@gmail.com;amministrazione@cardamonesrl.com,Email non valida
+85,Nome,,Campo obbligatorio
+86,Email,info.valscommercialegp@gmail.com; info.valserramenti@gmail.com,Email non valida
+86,Nome,,Campo obbligatorio
+87,Nome,,Campo obbligatorio
+88,Email,"info@ferrariacciai.com , amministrazione@ferrariacciai.com",Email non valida
+88,Nome,,Campo obbligatorio
+89,Nome,,Campo obbligatorio
+90,Nome,,Campo obbligatorio
+91,Nome,,Campo obbligatorio
+92,Nome,,Campo obbligatorio
+93,Nome,,Campo obbligatorio
+94,Nome,,Campo obbligatorio
+95,Nome,,Campo obbligatorio
+96,Nome,,Campo obbligatorio
+97,Nome,,Campo obbligatorio
+98,Nome,,Campo obbligatorio
+99,Email,marina.basilico@poliplast.com ; ufficiotecnico@poliplast.com,Email non valida
+99,Nome,,Campo obbligatorio
+100,Nome,,Campo obbligatorio
+101,Nome,,Campo obbligatorio
+102,Nome,,Campo obbligatorio
+103,Email,"b.amministrazione@fratellisignorelli.it; m.amministrazione@fratellisignorelli.it , amministrazione@pec.fratellisignorelli.it",Email non valida
+103,Nome,,Campo obbligatorio
+104,Nome,,Campo obbligatorio
+105,Email,g.pisoni@effetre.it;amministrazione@effetre.it,Email non valida
+105,Nome,,Campo obbligatorio
+106,Email,info@torsellini.com; diramm@torsellini.com,Email non valida
+106,Nome,,Campo obbligatorio
+107,Email,"lazzariniautomazioni.sas@gmail.com , lazzariniautomazioni@legalmail.it",Email non valida
+107,Nome,,Campo obbligatorio
+108,Nome,,Campo obbligatorio
+109,Email,info@minellieporteri.it;amministrazione@minellieporteri.it,Email non valida
+109,Nome,,Campo obbligatorio
+110,Nome,,Campo obbligatorio
+111,Email,"f.llipisciotta@gmail.com , pisciottasnc@pec.it",Email non valida
+111,Nome,,Campo obbligatorio
+112,Nome,,Campo obbligatorio
+113,Email,"a.albini@archiverde.it , archiverde.it@aziendapec.it",Email non valida
+113,Nome,,Campo obbligatorio
+114,Email,"a.colombo@amcporteindustriali.net , fatture@amcporteindustriali.net , info@amcporteindustriali.net",Email non valida
+114,Nome,,Campo obbligatorio
+115,Email,"mtl@mtlcomo.it , amministrazione@mtlcomo.it",Email non valida
+115,Nome,,Campo obbligatorio
+116,Nome,,Campo obbligatorio
+117,Nome,,Campo obbligatorio
+118,Nome,,Campo obbligatorio
+119,Nome,,Campo obbligatorio
+120,Nome,,Campo obbligatorio
+121,Nome,,Campo obbligatorio
+122,Nome,,Campo obbligatorio
+123,Email,VINSER@SERRAMENTI-MILANO.IT ; ANTONELLA@SERRAMENTI-MILANO.IT,Email non valida
+123,Nome,,Campo obbligatorio
+124,Email,buy@rosa.it ; m.giani@rosa.it ; g.cattaneo@rosa.it ; magazzino@rosa.it ;,Email non valida
+124,Nome,,Campo obbligatorio
+125,Email,commerciale@metalvetrosnc.com; amministrazione@metalvetrosnc.com,Email non valida
+125,Nome,,Campo obbligatorio
+126,Email,info@amitti.com ; amministrazione@amitti.com,Email non valida
+126,Nome,,Campo obbligatorio
+127,Email,amministrazione@fpdesignsrl.it; segreteria@fpdesignsrl.it,Email non valida
+127,Nome,,Campo obbligatorio
+128,Nome,,Campo obbligatorio
+129,Nome,,Campo obbligatorio
+130,Nome,,Campo obbligatorio
+131,Email,"amministrazione@pogliaghi.it , sicurezza@pogliaghi.it",Email non valida
+131,Nome,,Campo obbligatorio
+132,Nome,,Campo obbligatorio
+133,Nome,,Campo obbligatorio
+134,Nome,,Campo obbligatorio
+135,Email,"info@casadesignsrl.it , stefano@casadesignsrl.it",Email non valida
+135,Nome,,Campo obbligatorio
+136,Email,"comes@comesgroup.it, segreteria@comesgroup.it",Email non valida
+136,Nome,,Campo obbligatorio
+137,Email,luca@sicef.com; amministrazione@sicef.com,Email non valida
+137,Nome,,Campo obbligatorio
+138,Nome,,Campo obbligatorio
+139,Email,"nazareno@vicariealessandro.it , alina@vicariealessandro.it ;commerciale@vevsoluzioni.it",Email non valida
+139,Nome,,Campo obbligatorio
+140,Nome,,Campo obbligatorio
+141,Nome,,Campo obbligatorio
+142,Nome,,Campo obbligatorio
+143,Nome,,Campo obbligatorio
+144,Nome,,Campo obbligatorio
+145,Email,"amministrazionelocci1@gmail.com , tecnicolocci@gmail.com",Email non valida
+145,Nome,,Campo obbligatorio
+146,Email,"info@gntmeccanica.com , amministrazione@gntmeccanica.com , tecnico@gntmeccanica.com",Email non valida
+146,Nome,,Campo obbligatorio
+147,Nome,,Campo obbligatorio
+148,Nome,,Campo obbligatorio
+149,Nome,,Campo obbligatorio
+150,Email,"info@carpenteriac2c.com ,amministrazione@carpenteriac2c.com",Email non valida
+150,Nome,,Campo obbligatorio
+151,Email,amministrazione@mattiolosrl.it ; info@mattiolosrl.it.,Email non valida
+151,Nome,,Campo obbligatorio
+152,Nome,,Campo obbligatorio
+153,Nome,,Campo obbligatorio
+154,Nome,,Campo obbligatorio
+155,Nome,,Campo obbligatorio
+156,Nome,,Campo obbligatorio
+157,Email,"info@iommazzo.it , amministrazione@iommazzo.it",Email non valida
+157,Nome,,Campo obbligatorio
+158,Nome,,Campo obbligatorio
+159,Nome,,Campo obbligatorio
+160,Email,Ylenia Colombo <acquisti@polypiu.it>,Email non valida
+160,Nome,,Campo obbligatorio
+161,Nome,,Campo obbligatorio
+162,Nome,,Campo obbligatorio
+163,Nome,,Campo obbligatorio
+164,Nome,,Campo obbligatorio
+165,Email,info@aerosviluppi.it ; magazzino5@aerosviluppi.it,Email non valida
+165,Nome,,Campo obbligatorio
+166,Nome,,Campo obbligatorio
+167,Nome,,Campo obbligatorio
+168,Email,"laskodesign2@gmail.com , contabilitalasko@gmail.com",Email non valida
+168,Nome,,Campo obbligatorio
+169,Nome,,Campo obbligatorio
+170,Email,anna.fasanella@peroniruggero.it ; gianluca.barausse@peroniruggero.it,Email non valida
+170,Nome,,Campo obbligatorio
+171,Nome,,Campo obbligatorio
+172,Nome,,Campo obbligatorio
+173,Nome,,Campo obbligatorio
+174,Nome,,Campo obbligatorio
+175,Nome,,Campo obbligatorio
+176,Nome,,Campo obbligatorio
+177,Nome,,Campo obbligatorio
+178,Nome,,Campo obbligatorio
+179,Nome,,Campo obbligatorio
+180,Nome,,Campo obbligatorio
+181,Nome,,Campo obbligatorio
+182,Nome,,Campo obbligatorio
+183,Nome,,Campo obbligatorio
+184,Nome,,Campo obbligatorio
+185,Nome,,Campo obbligatorio
+186,Nome,,Campo obbligatorio
+187,Nome,,Campo obbligatorio
+188,Email,"ctmarcoriva@hotmail.it , giordanochierichetti@yahoo.it",Email non valida
+188,Nome,,Campo obbligatorio
+189,Nome,,Campo obbligatorio
+190,Nome,,Campo obbligatorio
+191,Email,salvatore.fonto@nonsoloferro.com ; salvatore.fonto@nonsoloferro.com,Email non valida
+191,Nome,,Campo obbligatorio
+192,Nome,,Campo obbligatorio
+193,Nome,,Campo obbligatorio
+194,Nome,,Campo obbligatorio
+195,Nome,,Campo obbligatorio
+196,Nome,,Campo obbligatorio
+197,Nome,,Campo obbligatorio
+198,Nome,,Campo obbligatorio
+199,Nome,,Campo obbligatorio
+200,Nome,,Campo obbligatorio
+201,Nome,,Campo obbligatorio
+202,Email,massarotto@ssamo.eu ; acquisti@sesamo.eu ; corda@sesamo.eu,Email non valida
+202,Nome,,Campo obbligatorio
+203,Nome,,Campo obbligatorio
+204,Email,mirone@sesamo.eu ; massarotto@sesamo.eu ; Ufficio Acquisti <acquisti@sesamo.eu>,Email non valida
+204,Nome,,Campo obbligatorio
+205,Email,COMMERCIALE@OFFICINAVASSENA.COM ; AMMINISTRAZIONE@OFFICINAVASSENA.COM,Email non valida
+205,Nome,,Campo obbligatorio
+206,Nome,,Campo obbligatorio
+207,Email,info@deluxesign.com; silvia@easycomgroup.it;,Email non valida
+207,Nome,,Campo obbligatorio
+208,Email,gestione@eurocostruzionisrl.net ; info@eurocostruzionisrl.net,Email non valida
+208,Nome,,Campo obbligatorio
+209,Nome,,Campo obbligatorio
+210,Nome,,Campo obbligatorio
+211,Nome,,Campo obbligatorio
+212,Nome,,Campo obbligatorio
+213,Nome,,Campo obbligatorio
+214,Nome,,Campo obbligatorio
+215,Email,INFO@VETROEFFE.IT ; AMMINISTRAZIONE@VETROEFFE.IT,Email non valida
+215,Nome,,Campo obbligatorio
+216,Nome,,Campo obbligatorio
+217,Email,info@elbalucernari.it ; amministrazione@elbalucernari.it,Email non valida
+217,Nome,,Campo obbligatorio
+218,Nome,,Campo obbligatorio
+219,Nome,,Campo obbligatorio
+220,Nome,,Campo obbligatorio
+221,Nome,,Campo obbligatorio
+222,Nome,,Campo obbligatorio
+223,Nome,,Campo obbligatorio
+224,Nome,,Campo obbligatorio
+225,Email,inferriategarbo@gmail.com ; GARBOAS@TISCALI.IT,Email non valida
+225,Nome,,Campo obbligatorio
+226,Nome,,Campo obbligatorio
+227,Nome,,Campo obbligatorio
+228,Nome,,Campo obbligatorio
+229,Nome,,Campo obbligatorio
+230,Nome,,Campo obbligatorio
+231,Email,NURIMMOBILIENSRL@GMAIL.COM ; SIMONAIACOBELLIS@LIBERO.IT,Email non valida
+231,Nome,,Campo obbligatorio
+232,Nome,,Campo obbligatorio
+233,Email,LORENZO.BOCCA@COMETECS.CH ; AMMINISTRAZIONE@COMETECS.CH,Email non valida
+233,Nome,,Campo obbligatorio
+234,Nome,,Campo obbligatorio
+235,Nome,,Campo obbligatorio
+236,Nome,,Campo obbligatorio
+237,Nome,,Campo obbligatorio
+238,Nome,,Campo obbligatorio
+239,Nome,,Campo obbligatorio
+240,Nome,,Campo obbligatorio
+241,Nome,,Campo obbligatorio
+242,Nome,,Campo obbligatorio
+243,Nome,,Campo obbligatorio
+244,Nome,,Campo obbligatorio
+245,Nome,,Campo obbligatorio
+246,Nome,,Campo obbligatorio
+247,Nome,,Campo obbligatorio
+248,Nome,,Campo obbligatorio
+249,Nome,,Campo obbligatorio
+250,Nome,,Campo obbligatorio
+251,Nome,,Campo obbligatorio
+252,Email,FERPORT@FERPORT.IT ; ASSISTENZA.FRANCESCO@FERPORT.IT ; commerciale@ferport.it ;veronika@ferport.it,Email non valida
+252,Nome,,Campo obbligatorio
+253,Nome,,Campo obbligatorio
+254,Nome,,Campo obbligatorio
+255,Nome,,Campo obbligatorio
+256,Nome,,Campo obbligatorio
+257,Nome,,Campo obbligatorio
+258,Nome,,Campo obbligatorio
+259,Nome,,Campo obbligatorio
+260,Nome,,Campo obbligatorio
+261,Nome,,Campo obbligatorio
+262,Email,magazzino1@map-eu.it ; fattfornitori@map-eu.it,Email non valida
+262,Nome,,Campo obbligatorio
+263,Email,M.Ballerini@pielle.eu ; C.Fugazza@pielle.eu,Email non valida
+263,Nome,,Campo obbligatorio
+264,Email,grudelta@gmail.com ;  info@gru-deltaimpianti.it,Email non valida
+264,Nome,,Campo obbligatorio
+265,Nome,,Campo obbligatorio
+266,Email,verniciatura@vettoresrl.it ; amministrazione@vettoresrl.it,Email non valida
+266,Nome,,Campo obbligatorio
+267,Email,INFO@ALPACSRL.COM ;lara.e@alpacsrl.com,Email non valida
+267,Nome,,Campo obbligatorio
+268,Nome,,Campo obbligatorio
+269,Email,andrea.calabrese@ggroupinternational.com ; devis.cucchi@ggroupinternational.com,Email non valida
+269,Nome,,Campo obbligatorio
+270,Nome,,Campo obbligatorio
+271,Nome,,Campo obbligatorio
+272,Nome,,Campo obbligatorio
+273,Email,nicola.rimoldi@hmy-group.com ;elena.colombo@hmy-group.com ; sharon.pitanti@hmy-group.com,Email non valida
+273,Nome,,Campo obbligatorio
+274,Nome,,Campo obbligatorio
+275,Nome,,Campo obbligatorio
+276,Nome,,Campo obbligatorio
+277,Email,c.longo@tecnomatic-automations.eu ; a.soriano@tecnomatic-automations.eu ;,Email non valida
+277,Nome,,Campo obbligatorio
+278,Email,"zordan.disegni@gmail.com , amministrazione.zordan@gmail.com",Email non valida
+278,Nome,,Campo obbligatorio
+279,Nome,,Campo obbligatorio
+280,Nome,,Campo obbligatorio
+281,Nome,,Campo obbligatorio
+282,Nome,,Campo obbligatorio
+283,Nome,,Campo obbligatorio
+284,Nome,,Campo obbligatorio
+285,Email,LORENZO.BOCCA@COMETECS.CH ; AMMINISTRAZIONE@COMETECS.CH,Email non valida
+285,Nome,,Campo obbligatorio
+286,Nome,,Campo obbligatorio
+287,Nome,,Campo obbligatorio
+288,Email,info@modoallestimenti.it ; commerciale@modoallestimenti.it,Email non valida
+288,Nome,,Campo obbligatorio
+289,Nome,,Campo obbligatorio
+290,Nome,,Campo obbligatorio
+291,Nome,,Campo obbligatorio
+292,Nome,,Campo obbligatorio
+293,Nome,,Campo obbligatorio
+294,Nome,,Campo obbligatorio
+295,Nome,,Campo obbligatorio
+296,Nome,,Campo obbligatorio
+297,Nome,,Campo obbligatorio
+298,Nome,,Campo obbligatorio
+299,Nome,,Campo obbligatorio
+300,Email,segreteria@maspero.com ; amm4@maspero.com,Email non valida
+300,Nome,,Campo obbligatorio
+301,Email,INFO@LATTONERIAROTA.IT ; CATIA.ARIENTA@LATTONERIAROTA.IT,Email non valida
+301,Nome,,Campo obbligatorio
+302,Nome,,Campo obbligatorio
+303,Nome,,Campo obbligatorio
+304,Nome,,Campo obbligatorio
+305,Nome,,Campo obbligatorio
+306,Email,INFO@FRATELLIGELLMINI.IT ; paolo.gelmini@fratelligelmini.it ; massimo.meani@fratelligelmini.it,Email non valida
+306,Nome,,Campo obbligatorio
+307,Nome,,Campo obbligatorio
+308,Nome,,Campo obbligatorio
+309,Nome,,Campo obbligatorio
+310,Nome,,Campo obbligatorio
+311,Nome,,Campo obbligatorio
+312,Nome,,Campo obbligatorio
+313,Nome,,Campo obbligatorio
+314,Nome,,Campo obbligatorio
+315,Email,galmarini.simona@mariocrosta.com ; christian.laricchiuta@mariocrosta.com,Email non valida
+315,Nome,,Campo obbligatorio
+316,Nome,,Campo obbligatorio
+317,Nome,,Campo obbligatorio
+318,Nome,,Campo obbligatorio
+319,Nome,,Campo obbligatorio
+320,Nome,,Campo obbligatorio
+321,Nome,,Campo obbligatorio
+322,Nome,,Campo obbligatorio
+323,Nome,,Campo obbligatorio
+324,Nome,,Campo obbligatorio
+325,Nome,,Campo obbligatorio
+326,Nome,,Campo obbligatorio
+327,Nome,,Campo obbligatorio
+328,Email,tecnico@discasrl.it ; info@discasrl.it,Email non valida
+328,Nome,,Campo obbligatorio
+329,Nome,,Campo obbligatorio
+330,Email,"angelo.lattuca@targetsrl.net , silvia.facchinetti@targetsrl.net",Email non valida
+330,Nome,,Campo obbligatorio
+331,Email,VETRERIA@VETRERIALUCCA.IT ; UFFICIO@VETRERIALUCCA.IT ; tecnico@vetrerialucca.it,Email non valida
+331,Nome,,Campo obbligatorio
+332,Nome,,Campo obbligatorio
+333,Nome,,Campo obbligatorio
+334,Nome,,Campo obbligatorio
+335,Nome,,Campo obbligatorio
+336,Nome,,Campo obbligatorio
+337,Nome,,Campo obbligatorio
+338,Email,info@bacocarpenteria.it ; amministrazione@bacocarpenteria.it ;,Email non valida
+338,Nome,,Campo obbligatorio
+339,Nome,,Campo obbligatorio
+340,Nome,,Campo obbligatorio
+341,Email,DELLAVEDOVA.GIOVANNI@FDMSRL.COM ; INFO@FDMSRL.COM ; AMMINISTRAZIONE@FDMSRL.COM,Email non valida
+341,Nome,,Campo obbligatorio
+342,Email,amministrazione2@epistolio.com; acquisti.bimac2@epistolio.com; acquisti.produzione@epistolio.com,Email non valida
+342,Nome,,Campo obbligatorio
+343,Nome,,Campo obbligatorio
+344,Email,INFO@COLOMBOSPA-COMO.IT ; Ortelli@colombospa-como.it,Email non valida
+344,Nome,,Campo obbligatorio
+345,Nome,,Campo obbligatorio
+346,Nome,,Campo obbligatorio
+347,Nome,,Campo obbligatorio
+348,Nome,,Campo obbligatorio
+349,Nome,,Campo obbligatorio
+350,Nome,,Campo obbligatorio
+351,Nome,,Campo obbligatorio
+352,Nome,,Campo obbligatorio
+353,Nome,,Campo obbligatorio
+354,Nome,,Campo obbligatorio
+355,Nome,,Campo obbligatorio
+356,Nome,,Campo obbligatorio
+357,Email,INFO@LISAR.IT;Ufficio Acquisti <acquisti@lisar.it>; Luca Cerchiaro <luca.cerchiaro@lisar.it>,Email non valida
+357,Nome,,Campo obbligatorio
+358,Nome,,Campo obbligatorio
+359,Nome,,Campo obbligatorio
+360,Nome,,Campo obbligatorio
+361,Nome,,Campo obbligatorio
+362,Email,amministrazione@cmt-trevisan.it ;  uff.tecnico@cmt-trevisan.it,Email non valida
+362,Nome,,Campo obbligatorio
+363,Nome,,Campo obbligatorio
+364,Nome,,Campo obbligatorio
+365,Nome,,Campo obbligatorio
+366,Nome,,Campo obbligatorio
+367,Nome,,Campo obbligatorio
+368,Email,INFO@SOFOSLAB.IT ; kim.duong@sofoslab.it,Email non valida
+368,Nome,,Campo obbligatorio
+369,Nome,,Campo obbligatorio
+370,Nome,,Campo obbligatorio
+371,Email,POSTMASTER@PRINCIPEARES.IT ; COMMERCIALE@PRINCIPEARES.IT ;,Email non valida
+371,Nome,,Campo obbligatorio
+372,Nome,,Campo obbligatorio
+373,Email,"STIZIANI@TOPLEVELASCENSORI.CO, ; NPELLEGRINI@TOPLEVELASCENSORI.COM",Email non valida
+373,Nome,,Campo obbligatorio
+374,Nome,,Campo obbligatorio
+375,Nome,,Campo obbligatorio
+376,Nome,,Campo obbligatorio
+377,Nome,,Campo obbligatorio
+378,Email,"alpoggiosrl@libero.it, ALPOGGIOSRL@LAMIAPEC.IT",Email non valida
+378,Nome,,Campo obbligatorio
+379,Email,info@iommazzo.it; amministrazione@iommazzo.it,Email non valida
+379,Nome,,Campo obbligatorio
+380,Nome,,Campo obbligatorio
+381,Email,AMMINISTRAZIONE@EPSER.IT ; UFFICIO.ACQUISTI@EPSER.IT,Email non valida
+381,Nome,,Campo obbligatorio
+382,Nome,,Campo obbligatorio
+383,Nome,,Campo obbligatorio
+384,Nome,,Campo obbligatorio
+385,Nome,,Campo obbligatorio
+386,Nome,,Campo obbligatorio
+387,Email,INFO@FRANCHILASER.IT ; TECNICO@FRANCHILASER.IT,Email non valida
+387,Nome,,Campo obbligatorio
+388,Nome,,Campo obbligatorio
+389,Nome,,Campo obbligatorio
+390,Email,INFO@OFFICINABARLOCCO.IT ; TECNICO@OFFICINABARLOCCO.IT ;,Email non valida
+390,Nome,,Campo obbligatorio
+391,Nome,,Campo obbligatorio
+392,Nome,,Campo obbligatorio
+393,Nome,,Campo obbligatorio
+394,Nome,,Campo obbligatorio
+395,Nome,,Campo obbligatorio
+396,Nome,,Campo obbligatorio
+397,Nome,,Campo obbligatorio
+398,Nome,,Campo obbligatorio
+399,Email,t.ranieri@brescianiasfalti.it ; INFO@BRESCIANIASFALTI.IT,Email non valida
+399,Nome,,Campo obbligatorio
+400,Nome,,Campo obbligatorio
+401,Nome,,Campo obbligatorio
+402,Nome,,Campo obbligatorio
+403,Nome,,Campo obbligatorio
+404,Nome,,Campo obbligatorio
+405,Email,info@dwnserramenti.it;amministrazione@dwnserramenti.it,Email non valida
+405,Nome,,Campo obbligatorio
+406,Nome,,Campo obbligatorio
+407,Email,info@werden.it; c.lombardi@werden.it,Email non valida
+407,Nome,,Campo obbligatorio
+408,Nome,,Campo obbligatorio
+409,Nome,,Campo obbligatorio
+410,Nome,,Campo obbligatorio
+411,Nome,,Campo obbligatorio
+412,Nome,,Campo obbligatorio
+413,Nome,,Campo obbligatorio
+414,Nome,,Campo obbligatorio
+415,Nome,,Campo obbligatorio
+416,Nome,,Campo obbligatorio
+417,Nome,,Campo obbligatorio
+418,Email,dierretendaggi@gmail.com ; amministrazionedierretendaggi@gmail.com,Email non valida
+418,Nome,,Campo obbligatorio
+419,Email,acquisti@m-eng.it; tecnico@m-eng.it,Email non valida
+419,Nome,,Campo obbligatorio
+420,Nome,,Campo obbligatorio
+421,Email,amministrazione@mettech.it ; tecnico@mettech.it,Email non valida
+421,Nome,,Campo obbligatorio
+422,Nome,,Campo obbligatorio
+423,Nome,,Campo obbligatorio
+424,Nome,,Campo obbligatorio
+425,Nome,,Campo obbligatorio
+426,Nome,,Campo obbligatorio
+427,Nome,,Campo obbligatorio
+428,Nome,,Campo obbligatorio
+429,Email,info@3effefornituresrl.it ; amministrazione@3effefornituresrl.it,Email non valida
+429,Nome,,Campo obbligatorio
+430,Nome,,Campo obbligatorio
+431,Nome,,Campo obbligatorio
+432,Nome,,Campo obbligatorio
+433,Email,AMMINISTRAZIONE@COMEDIL-SRL.IT; INFO@COMEDIL-SRL.IT,Email non valida
+433,Nome,,Campo obbligatorio
+434,Nome,,Campo obbligatorio
+435,Nome,,Campo obbligatorio
+436,Nome,,Campo obbligatorio
+437,Nome,,Campo obbligatorio
+438,Nome,,Campo obbligatorio
+439,Email,"ticma@ticma.com, amministrazione@ticma.com",Email non valida
+439,Nome,,Campo obbligatorio
+440,Nome,,Campo obbligatorio
+441,Nome,,Campo obbligatorio
+442,Email,contabilità@glassitaly.com; daniele@glassitaly.com,Email non valida
+442,Nome,,Campo obbligatorio
+443,Email,amministrazione@tuttostrade.com;tecnico2@tuttostrade.com; info@tuttostrade.com,Email non valida
+443,Nome,,Campo obbligatorio
+444,Nome,,Campo obbligatorio
+445,Nome,,Campo obbligatorio
+446,Nome,,Campo obbligatorio
+447,Nome,,Campo obbligatorio
+448,Nome,,Campo obbligatorio
+449,Email,info@wdaprogetti.com ; commerciale@wdaprogetti.com ; amministrazione@wdaprogetti.com,Email non valida
+449,Nome,,Campo obbligatorio
+450,Nome,,Campo obbligatorio
+451,Nome,,Campo obbligatorio
+452,Nome,,Campo obbligatorio
+453,Nome,,Campo obbligatorio
+454,Nome,,Campo obbligatorio
+455,Nome,,Campo obbligatorio
+456,Nome,,Campo obbligatorio
+457,Nome,,Campo obbligatorio
+458,Email,a.maffioli@aluser.com; info@aluser.com,Email non valida
+458,Nome,,Campo obbligatorio
+459,Email,zani@zani.net;francesco.piazza@zani.net,Email non valida
+459,Nome,,Campo obbligatorio
+460,Nome,,Campo obbligatorio
+461,Nome,,Campo obbligatorio
+462,Nome,,Campo obbligatorio
+463,Nome,,Campo obbligatorio
+464,Nome,,Campo obbligatorio
+465,Nome,,Campo obbligatorio
+466,Email,manuela.zenatello@griesser.it; info@griesser.it,Email non valida
+466,Nome,,Campo obbligatorio
+467,Email,antonella.verardo@metalsrl.com ; amministrazione@metalsrl.com,Email non valida
+467,Nome,,Campo obbligatorio
+468,Email,amministrazione@immobiliaremar.it; info@immobiliaremar.it,Email non valida
+468,Nome,,Campo obbligatorio
+469,Nome,,Campo obbligatorio
+470,Email,amministrazione@meccanicamonti.com; purchase@meccanicamonti.com,Email non valida
+470,Nome,,Campo obbligatorio
+471,Nome,,Campo obbligatorio
+472,Nome,,Campo obbligatorio
+473,Nome,,Campo obbligatorio
+474,Nome,,Campo obbligatorio
+475,Email,info@pramac.com;ACCOUNTPAYABLES@PRAMAC.COM,Email non valida
+475,Nome,,Campo obbligatorio
+476,Nome,,Campo obbligatorio
+477,Nome,,Campo obbligatorio
+478,Nome,,Campo obbligatorio
+479,Email,commerciale@mascherpsrl.it; amministrazione@mascherpasrl.it,Email non valida
+479,Nome,,Campo obbligatorio
+480,Nome,,Campo obbligatorio
+481,Nome,,Campo obbligatorio
+482,Nome,,Campo obbligatorio
+483,Nome,,Campo obbligatorio
+484,Nome,,Campo obbligatorio
+485,Email,amerigo.mazzoleni@ceramita.it; giuseppe.belloli@ceramita.it;domenico.garonfalo@ceramita.it,Email non valida
+485,Nome,,Campo obbligatorio
+486,Email,giacomo@becocostruzioni.it;info@becocostruzioni.it,Email non valida
+486,Nome,,Campo obbligatorio
+487,Nome,,Campo obbligatorio
+488,Nome,,Campo obbligatorio
+489,Nome,,Campo obbligatorio
+490,Email,paganelli-stefano@omssonico.it;conti-matteo@omssonico.it,Email non valida
+490,Nome,,Campo obbligatorio
+491,Nome,,Campo obbligatorio
+492,Nome,,Campo obbligatorio
+493,Nome,,Campo obbligatorio
+494,Nome,,Campo obbligatorio
+495,Nome,,Campo obbligatorio
+496,Nome,,Campo obbligatorio
+497,Nome,,Campo obbligatorio
+498,Nome,,Campo obbligatorio
+499,Nome,,Campo obbligatorio
+500,Nome,,Campo obbligatorio
+501,Nome,,Campo obbligatorio
+502,Nome,,Campo obbligatorio
+503,Nome,,Campo obbligatorio
+504,Nome,,Campo obbligatorio
+505,Email,"bruno@rossicomponenti.it, info@rossicomponenti.it,",Email non valida
+505,Nome,,Campo obbligatorio
+506,Email,"info@pontevia.it, amministrazione@pontevia.it",Email non valida
+506,Nome,,Campo obbligatorio
+507,Email,amministrazione@carpenteriaromano.it ; officina@carpenteriaromano.it,Email non valida
+507,Nome,,Campo obbligatorio
+508,Email,"info@rattiluino.it,amministrazione@rattiluino.com",Email non valida
+508,Nome,,Campo obbligatorio
+509,Nome,,Campo obbligatorio
+510,Nome,,Campo obbligatorio
+511,Email,"amministrazione@dexpo.it,buono@dexpo.it",Email non valida
+511,Nome,,Campo obbligatorio
+512,Email,adm.mewo@gmail.com ; com@mewo.it,Email non valida
+512,Nome,,Campo obbligatorio
+513,Email,"contabilita@goldlight.biz,tecnico@goldlight.biz,ufficio@goldlight.biz",Email non valida
+513,Nome,,Campo obbligatorio
+514,Nome,,Campo obbligatorio
+515,Email,carpenteriapanizzolo@libero.it;info@carpenteriapanizzolo.it,Email non valida
+515,Nome,,Campo obbligatorio
+516,Email,acquisti@grgroup.mi.it ; sonia@grgroup.mi.it,Email non valida
+516,Nome,,Campo obbligatorio
+517,Nome,,Campo obbligatorio
+518,Email,"lpelle@pacbro.it, dmodenese@pacbro.it; mdiani@pacbro.it",Email non valida
+518,Nome,,Campo obbligatorio
+519,Nome,,Campo obbligatorio
+520,Nome,,Campo obbligatorio
+521,Email,"meccanicamariomaddalena@interfreepec.it, off.mecc.maddalena@virgilio.it , meccanicamariomaddalena@interfreepec.it",Email non valida
+521,Nome,,Campo obbligatorio
+522,Nome,,Campo obbligatorio
+523,Nome,,Campo obbligatorio
+524,Nome,,Campo obbligatorio
+525,Nome,,Campo obbligatorio
+526,Nome,,Campo obbligatorio
+527,Nome,,Campo obbligatorio
+528,Nome,,Campo obbligatorio
+529,Email,SaraRienzi <sararienzi@rida-srl.it>,Email non valida
+529,Nome,,Campo obbligatorio
+530,Email,"info@musazzisrl.it, musazzisrl@libero.it",Email non valida
+530,Nome,,Campo obbligatorio
+531,Nome,,Campo obbligatorio
+532,Email,acquisti@coideas.it; af@coideas.it,Email non valida
+532,Nome,,Campo obbligatorio
+533,Nome,,Campo obbligatorio
+534,Email,amministrazione@hfiltration.it; Acquisti HFiltration <acquisti@hfiltration.it>; RODI.MASSIMO@HFILTRATION.IT; Logistica2 Hfiltration <logistica2@hfiltration.it>,Email non valida
+534,Nome,,Campo obbligatorio
+535,Email,mail@gammatec.it;gammatec@gammatec.it,Email non valida
+535,Nome,,Campo obbligatorio
+536,Nome,,Campo obbligatorio
+537,Nome,,Campo obbligatorio
+538,Nome,,Campo obbligatorio
+539,Email,"alice.vitali@vmsrlcarpenteria.it, amministrazione@vmsrlcarpenteria.it",Email non valida
+539,Nome,,Campo obbligatorio
+540,Nome,,Campo obbligatorio
+541,Nome,,Campo obbligatorio
+542,Email,"valentina.pelizza@generac.com , amministrazione@pec.towerlight.it",Email non valida
+542,Nome,,Campo obbligatorio
+543,Nome,,Campo obbligatorio
+544,Nome,,Campo obbligatorio
+545,Nome,,Campo obbligatorio
+546,Nome,,Campo obbligatorio
+547,Nome,,Campo obbligatorio
+548,Nome,,Campo obbligatorio
+549,Nome,,Campo obbligatorio
+550,Nome,,Campo obbligatorio
+551,Nome,,Campo obbligatorio
+552,Nome,,Campo obbligatorio
+553,Nome,,Campo obbligatorio
+554,Nome,,Campo obbligatorio
+555,Nome,,Campo obbligatorio
+556,Nome,,Campo obbligatorio
+557,Nome,,Campo obbligatorio
+558,Nome,,Campo obbligatorio
+559,Nome,,Campo obbligatorio
+560,Email,info@luonisistem.it; amministrazione@luonisistem.it,Email non valida
+560,Nome,,Campo obbligatorio
+561,Nome,,Campo obbligatorio
+562,Nome,,Campo obbligatorio
+563,Nome,,Campo obbligatorio
+564,Nome,,Campo obbligatorio
+565,Nome,,Campo obbligatorio
+566,Nome,,Campo obbligatorio
+567,Nome,,Campo obbligatorio
+568,Nome,,Campo obbligatorio
+569,Nome,,Campo obbligatorio
+570,Nome,,Campo obbligatorio
+571,Nome,,Campo obbligatorio
+572,Nome,,Campo obbligatorio
+573,Nome,,Campo obbligatorio
+574,Nome,,Campo obbligatorio
+575,Nome,,Campo obbligatorio
+576,Email,"info@woodlineproject.it, amministrazione@woodlineproject.it",Email non valida
+576,Nome,,Campo obbligatorio
+577,Nome,,Campo obbligatorio
+578,Email,mfranzoso@teknoproget.it;manna@trime.it;amministrazione@teknoproget.it,Email non valida
+578,Nome,,Campo obbligatorio
+579,Nome,,Campo obbligatorio
+580,Email,"prod@cmggallia.com, renato.trapani@cmggallia.com , fatturazione@cmggallia.com",Email non valida
+580,Nome,,Campo obbligatorio
+581,Email,"Paola.Bassani@gardnerdenver.com,Giulia Martinetti <giulia.martinetti@gardnerdenver.com>;Jacopo Pennati <Jacopo.Pennati@gardnerdenver.com>",Email non valida
+581,Nome,,Campo obbligatorio
+582,Nome,,Campo obbligatorio
+583,Nome,,Campo obbligatorio
+584,Email,"paola@forloni.it , forlonisrl@pec.companymail.it , forlonisrl@pec.companymail.it",Email non valida
+584,Nome,,Campo obbligatorio
+585,Nome,,Campo obbligatorio
+586,Nome,,Campo obbligatorio
+587,Nome,,Campo obbligatorio
+588,Email,cdcrespi@danielecrespi.191.it;product.cm@gmail.com,Email non valida
+588,Nome,,Campo obbligatorio
+589,Nome,,Campo obbligatorio
+590,Email,commerciale@area-d.eu;varese@area-d.eu,Email non valida
+590,Nome,,Campo obbligatorio
+591,Nome,,Campo obbligatorio
+592,Nome,,Campo obbligatorio
+593,Nome,,Campo obbligatorio
+594,Email,pierluigi.banfi@3bsrlmi.it;alberto.banfi@3bsrlmi.it;milena.figliuolo@3bsrlmi.it,Email non valida
+594,Nome,,Campo obbligatorio
+595,Email,"info@ibierre.it;amministrazione@ibierre.it;lorenza@ibierre.it;mariagrazia@ibierre.it,",Email non valida
+595,Nome,,Campo obbligatorio
+596,Email,amministrazione@carpenteriaschiavo.it;tecnico@carpenteriaschiavo.it,Email non valida
+596,Nome,,Campo obbligatorio
+597,Email,m.parolini@enginiasrl.COM; amministrazione@enginiasrl.COM;acquisti@enginiasrl.COM; magazzino@enginiasrl.com,Email non valida
+597,Nome,,Campo obbligatorio
+598,Nome,,Campo obbligatorio
+599,Nome,,Campo obbligatorio
+600,Nome,,Campo obbligatorio
+601,Nome,,Campo obbligatorio
+602,Nome,,Campo obbligatorio
+603,Email,"fmasrl@fma-srl.com , contabilita@fma-srl.com",Email non valida
+603,Nome,,Campo obbligatorio
+604,Email,info@serramenticlaps.com; losito@serramenticlaps.com; pavan@serramenticlaps.com,Email non valida
+604,Nome,,Campo obbligatorio
+605,Nome,,Campo obbligatorio
+606,Nome,,Campo obbligatorio
+607,Nome,,Campo obbligatorio
+608,Nome,,Campo obbligatorio
+609,Nome,,Campo obbligatorio
+610,Nome,,Campo obbligatorio
+611,Nome,,Campo obbligatorio
+612,Nome,,Campo obbligatorio
+613,Nome,,Campo obbligatorio
+614,Email,"info@evoframesrl.com, amministrazione@evoframesrl.com",Email non valida
+614,Nome,,Campo obbligatorio
+615,Nome,,Campo obbligatorio
+616,Nome,,Campo obbligatorio
+617,Nome,,Campo obbligatorio
+618,Email,info@bimelarredamenti.com; info@pec.bimelarredamenti.com,Email non valida
+618,Nome,,Campo obbligatorio
+619,Nome,,Campo obbligatorio
+620,Nome,,Campo obbligatorio
+621,Nome,,Campo obbligatorio
+622,Nome,,Campo obbligatorio
+623,Nome,,Campo obbligatorio
+624,Nome,,Campo obbligatorio
+625,Nome,,Campo obbligatorio
+626,Nome,,Campo obbligatorio
+627,Nome,,Campo obbligatorio
+628,Nome,,Campo obbligatorio
+629,Nome,,Campo obbligatorio
+630,Nome,,Campo obbligatorio
+631,Nome,,Campo obbligatorio
+632,Nome,,Campo obbligatorio
+633,Nome,,Campo obbligatorio
+634,Nome,,Campo obbligatorio
+635,Nome,,Campo obbligatorio
+636,Nome,,Campo obbligatorio
+637,Nome,,Campo obbligatorio
+638,Nome,,Campo obbligatorio
+639,Nome,,Campo obbligatorio
+640,Nome,,Campo obbligatorio
+641,Nome,,Campo obbligatorio
+642,Nome,,Campo obbligatorio
+643,Nome,,Campo obbligatorio
+644,Nome,,Campo obbligatorio
+645,Nome,,Campo obbligatorio
+646,Nome,,Campo obbligatorio
+647,Nome,,Campo obbligatorio
+648,Nome,,Campo obbligatorio
+649,Nome,,Campo obbligatorio
+650,Nome,,Campo obbligatorio
+651,Nome,,Campo obbligatorio
+652,Email,"amministrazione@confersnc.it , info@confersnc.it",Email non valida
+652,Nome,,Campo obbligatorio
+653,Nome,,Campo obbligatorio
+654,Nome,,Campo obbligatorio
+655,Nome,,Campo obbligatorio
+656,Nome,,Campo obbligatorio
+657,Nome,,Campo obbligatorio
+658,Nome,,Campo obbligatorio
+659,Email,amministrazione@cbssrl.it; fabrizio.mosconi@cbssrl.it;fabio.rigamonti@cbssrl.it,Email non valida
+659,Nome,,Campo obbligatorio
+660,Nome,,Campo obbligatorio
+661,Nome,,Campo obbligatorio
+662,Nome,,Campo obbligatorio
+663,Nome,,Campo obbligatorio
+664,Nome,,Campo obbligatorio
+665,Nome,,Campo obbligatorio
+666,Nome,,Campo obbligatorio
+667,Nome,,Campo obbligatorio
+668,Nome,,Campo obbligatorio
+669,Nome,,Campo obbligatorio
+670,Nome,,Campo obbligatorio
+671,Nome,,Campo obbligatorio
+672,Email,graziella.fortarezza@rexite.it; amministrazione@rexite.it,Email non valida
+672,Nome,,Campo obbligatorio
+673,Nome,,Campo obbligatorio
+674,Nome,,Campo obbligatorio
+675,Email,"info@ldproject.net , commerciale@ldproject.net , amministrazione@ldproject.net",Email non valida
+675,Nome,,Campo obbligatorio
+676,Nome,,Campo obbligatorio
+677,Nome,,Campo obbligatorio
+678,Nome,,Campo obbligatorio
+679,Email,"info@vetreriapizzi.it , amministrazione@vetreriapizzi.it",Email non valida
+679,Nome,,Campo obbligatorio
+680,Nome,,Campo obbligatorio
+681,Nome,,Campo obbligatorio
+682,Nome,,Campo obbligatorio
+683,Email,"zordan.disegni@gmail.com , amministrazione.zordan@gmail.com",Email non valida
+683,Nome,,Campo obbligatorio
+684,Nome,,Campo obbligatorio
+685,Nome,,Campo obbligatorio
+686,Email,"info@pztubi.com , amministrazione@pztubi.com",Email non valida
+686,Nome,,Campo obbligatorio
+687,Nome,,Campo obbligatorio
+688,Nome,,Campo obbligatorio
+689,Nome,,Campo obbligatorio
+690,Email,ALESSANDROSARTIRANA@EUROSTANDS.IT; ORDINI@EUROSTANDS.IT;,Email non valida
+690,Nome,,Campo obbligatorio
+691,Nome,,Campo obbligatorio
+692,Nome,,Campo obbligatorio
+693,Nome,,Campo obbligatorio
+694,Nome,,Campo obbligatorio
+695,Nome,,Campo obbligatorio
+696,Email,"a.pedrani@gmail.com , amministrazione@at-srl.eu",Email non valida
+696,Nome,,Campo obbligatorio
+697,Nome,,Campo obbligatorio
+698,Nome,,Campo obbligatorio
+699,Nome,,Campo obbligatorio
+700,Nome,,Campo obbligatorio
+701,Nome,,Campo obbligatorio
+702,Nome,,Campo obbligatorio
+703,Nome,,Campo obbligatorio
+704,Nome,,Campo obbligatorio
+705,Email,"info@giardinagroup.com , acquisti@giardinagroup.com",Email non valida
+705,Nome,,Campo obbligatorio
+706,Nome,,Campo obbligatorio
+707,Nome,,Campo obbligatorio
+708,Nome,,Campo obbligatorio
+709,Nome,,Campo obbligatorio
+710,Nome,,Campo obbligatorio
+711,Email,r.colleoni@polomarconi.it ; info@polomarconi.it,Email non valida
+711,Nome,,Campo obbligatorio
+712,Nome,,Campo obbligatorio
+713,Nome,,Campo obbligatorio
+714,Nome,,Campo obbligatorio
+715,Nome,,Campo obbligatorio
+716,Nome,,Campo obbligatorio
+717,Nome,,Campo obbligatorio
+718,Nome,,Campo obbligatorio
+719,Nome,,Campo obbligatorio
+720,Nome,,Campo obbligatorio
+721,Nome,,Campo obbligatorio
+722,Nome,,Campo obbligatorio
+723,Email,TITALIA@TITALIA.IT ; manuel.riboldi@titalia.it ;  mara.colla@titalia.it,Email non valida
+723,Nome,,Campo obbligatorio
+724,Nome,,Campo obbligatorio
+725,Nome,,Campo obbligatorio
+726,Email,AMMINISTRAZIONE@SIABS.IT ; COMMERCIALE@SIABS.IT,Email non valida
+726,Nome,,Campo obbligatorio
+727,Email,info@domusomnia.com;domusomnia@legalmail.it,Email non valida
+727,Nome,,Campo obbligatorio
+728,Email,INFO@ADDICALCO.IT  ; ufficio.tecnico@addicalco.it,Email non valida
+728,Nome,,Campo obbligatorio
+729,Nome,,Campo obbligatorio
+730,Nome,,Campo obbligatorio
+731,Nome,,Campo obbligatorio
+732,Nome,,Campo obbligatorio
+733,Nome,,Campo obbligatorio
+734,Email,Mario Rossi <mario@ilsughero.it>,Email non valida
+734,Nome,,Campo obbligatorio
+735,Email,INFO@CLINFISSI.COM ;  AMMINISTRAZIONE@CLINFISSI.COM,Email non valida
+735,Nome,,Campo obbligatorio
+736,Nome,,Campo obbligatorio
+737,Nome,,Campo obbligatorio
+738,Email,valentino.gesmundo@ags-it.com ; daniele.viennese@ags-it.com  ;   segreteria@ags-it.com,Email non valida
+738,Nome,,Campo obbligatorio
+739,Nome,,Campo obbligatorio
+740,Nome,,Campo obbligatorio
+741,Nome,,Campo obbligatorio
+742,Nome,,Campo obbligatorio
+743,Nome,,Campo obbligatorio
+744,Nome,,Campo obbligatorio
+745,Nome,,Campo obbligatorio
+746,Nome,,Campo obbligatorio
+747,Nome,,Campo obbligatorio
+748,Nome,,Campo obbligatorio
+749,Nome,,Campo obbligatorio
+750,Nome,,Campo obbligatorio
+751,Nome,,Campo obbligatorio
+752,Email,info@mermecste.com ; SALVATORE.GENOVESE@MERMECSTE.COM,Email non valida
+752,Nome,,Campo obbligatorio
+753,Nome,,Campo obbligatorio
+754,Nome,,Campo obbligatorio
+755,Nome,,Campo obbligatorio
+756,Nome,,Campo obbligatorio
+757,Nome,,Campo obbligatorio
+758,Nome,,Campo obbligatorio
+759,Email,MAIL@SIMPLAS.IT ; 'grassi@simplas.it' ;,Email non valida
+759,Nome,,Campo obbligatorio
+760,Email,INFO@PONTEVIA.IT; AMMINISTRAZIONE@PONTEVIA.IT,Email non valida
+760,Nome,,Campo obbligatorio
+761,Nome,,Campo obbligatorio
+762,Nome,,Campo obbligatorio
+763,Nome,,Campo obbligatorio
+764,Email,gloria@albiniecastelli.it ; info@albiniecastelli.it,Email non valida
+764,Nome,,Campo obbligatorio
+765,Nome,,Campo obbligatorio
+766,Nome,,Campo obbligatorio
+767,Email,grazia.andreoni@vecomitalia.it ; gianni.vedani@vecomitalia.it ;,Email non valida
+767,Nome,,Campo obbligatorio
+768,Nome,,Campo obbligatorio
+769,Nome,,Campo obbligatorio
+770,Nome,,Campo obbligatorio
+771,Nome,,Campo obbligatorio
+772,Nome,,Campo obbligatorio
+773,Email,AMMINISTRAZIONE@CAIROLISRL.IT ; INFO@CAIROLISRL.IT,Email non valida
+773,Nome,,Campo obbligatorio
+774,Nome,,Campo obbligatorio
+775,Nome,,Campo obbligatorio
+776,Nome,,Campo obbligatorio
+777,Email,INFO@BILUMEN.IT ; AMMINISTRAZIONE@BILUMEN.IT ;,Email non valida
+777,Nome,,Campo obbligatorio
+778,Nome,,Campo obbligatorio
+779,Email,matteo.bottazzini@oltrefrontieraprogetti.com; fatturazione.elettronica@oltrefrontieraprogetti.com,Email non valida
+779,Nome,,Campo obbligatorio
+780,Nome,,Campo obbligatorio
+781,Nome,,Campo obbligatorio
+782,Email,info@artheco.it ; amministrazione@artheco.it ;,Email non valida
+782,Nome,,Campo obbligatorio
+783,Nome,,Campo obbligatorio
+784,Nome,,Campo obbligatorio
+785,Nome,,Campo obbligatorio
+786,Nome,,Campo obbligatorio
+787,Nome,,Campo obbligatorio
+788,Nome,,Campo obbligatorio
+789,Nome,,Campo obbligatorio
+790,Nome,,Campo obbligatorio
+791,Nome,,Campo obbligatorio
+792,Nome,,Campo obbligatorio
